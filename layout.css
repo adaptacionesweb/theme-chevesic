@@ -8,8 +8,8 @@ Licence URI: https://www.os-templates.com/template-terms
 File: Layout CSS
 */
 
-@import url("font-awesome.min.css");
-@import url("framework.css");
+@import url("https://rawcdn.githack.com/adaptacionesweb/theme-chevesic/2f3c673df255974716b2993316a38c78e4e8daf6/font-awesome.min.css");
+@import url("https://rawcdn.githack.com/adaptacionesweb/theme-chevesic/2f3c673df255974716b2993316a38c78e4e8daf6/framework.css");
 
 /* Rows
 --------------------------------------------------------------------------------------------------------------- */
